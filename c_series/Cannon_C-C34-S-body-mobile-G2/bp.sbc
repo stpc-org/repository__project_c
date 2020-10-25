@@ -1,0 +1,2496 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShipBlueprints>
+    <ShipBlueprint xsi:type="MyObjectBuilder_ShipBlueprintDefinition">
+      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="Cannon_C-C34-S-body-mobile-G2" />
+      <DisplayName>Sirius_Z</DisplayName>
+      <CubeGrids>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>138967350495852937</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="601.65043460199377" y="2508.3986627558224" z="300.26321483957508" />
+            <Forward x="0.00146657415" y="0.9999965" z="-0.002138853" />
+            <Up x="0.0492168143" y="-0.0022081614" z="-0.998785555" />
+            <Orientation>
+              <X>-0.0179063473</X>
+              <Y>-0.706123233</Y>
+              <Z>0.7076606</Z>
+              <W>-0.0169068668</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorCenter</SubtypeName>
+              <EntityId>100504507474700210</EntityId>
+              <Min x="1" y="2" z="-5" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorCenter</SubtypeName>
+              <EntityId>120545078027345094</EntityId>
+              <Min x="1" y="2" z="-6" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="2" z="-7" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="1" y="2" z="-8" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorCenter</SubtypeName>
+              <EntityId>141180459169275907</EntityId>
+              <Min x="-1" y="2" z="-5" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="1" y="2" z="-7" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-7" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="-1" y="2" z="-7" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorCenter</SubtypeName>
+              <EntityId>102839994245725773</EntityId>
+              <Min x="-1" y="2" z="-6" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="-1" y="2" z="-8" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="2" z="-6" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
+              <SubtypeName>SmallControlPanel</SubtypeName>
+              <EntityId>83808844436038924</EntityId>
+              <Min x="2" y="2" z="-8" />
+              <BlockOrientation Forward="Right" Up="Up" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>控制面板-kzmb- 5</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-29" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="2" z="-8" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorSide</SubtypeName>
+              <EntityId>132946554529032946</EntityId>
+              <Min x="0" y="1" z="-8" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-20" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-39" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-38" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorStator">
+              <SubtypeName>SmallStator</SubtypeName>
+              <EntityId>139044869231954233</EntityId>
+              <Min x="0" y="0" z="-38" />
+              <BlockOrientation Forward="Down" Up="Backward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Rotor_FRONT_M</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>90326914474042251</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <TargetVelocity>0</TargetVelocity>
+              <MinAngle xsi:nil="true" />
+              <MaxAngle xsi:nil="true" />
+              <CurrentAngle>3.14222121</CurrentAngle>
+              <LimitsActive>false</LimitsActive>
+              <DummyDisplacement>-0.155</DummyDisplacement>
+              <RotorLock>true</RotorLock>
+              <Torque>448000</Torque>
+              <BrakingTorque>0</BrakingTorque>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-39" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorStator">
+              <SubtypeName>SmallStator</SubtypeName>
+              <EntityId>90196420736752135</EntityId>
+              <Min x="1" y="0" z="-38" />
+              <BlockOrientation Forward="Down" Up="Backward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Rotor_FRONT_R</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>139743850653323148</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <TargetVelocity>0</TargetVelocity>
+              <MinAngle xsi:nil="true" />
+              <MaxAngle xsi:nil="true" />
+              <CurrentAngle>3.14222121</CurrentAngle>
+              <LimitsActive>false</LimitsActive>
+              <DummyDisplacement>-0.155</DummyDisplacement>
+              <RotorLock>true</RotorLock>
+              <Torque>448000</Torque>
+              <BrakingTorque>0</BrakingTorque>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorSlope2Base</SubtypeName>
+              <Min x="1" y="0" z="-39" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorSlope2Base</SubtypeName>
+              <Min x="-1" y="0" z="-39" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorStator">
+              <SubtypeName>SmallStator</SubtypeName>
+              <EntityId>122730731227300197</EntityId>
+              <Min x="-1" y="0" z="-38" />
+              <BlockOrientation Forward="Down" Up="Backward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Rotor_FRONT_L</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>92191708437462135</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <TargetVelocity>0</TargetVelocity>
+              <MinAngle xsi:nil="true" />
+              <MaxAngle xsi:nil="true" />
+              <CurrentAngle>3.14222121</CurrentAngle>
+              <LimitsActive>false</LimitsActive>
+              <DummyDisplacement>-0.155</DummyDisplacement>
+              <RotorLock>true</RotorLock>
+              <Torque>448000</Torque>
+              <BrakingTorque>0</BrakingTorque>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="0" z="-39" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorStator">
+              <SubtypeName>SmallStator</SubtypeName>
+              <EntityId>129802074620023657</EntityId>
+              <Min x="0" y="1" z="-10" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Detacher</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId xsi:nil="true" />
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <TargetVelocity>0</TargetVelocity>
+              <MinAngle xsi:nil="true" />
+              <MaxAngle xsi:nil="true" />
+              <CurrentAngle>3.14015961</CurrentAngle>
+              <LimitsActive>false</LimitsActive>
+              <DummyDisplacement>0.004999995</DummyDisplacement>
+              <RotorLock>true</RotorLock>
+              <Torque>448000</Torque>
+              <BrakingTorque>0</BrakingTorque>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+              <Min x="0" y="1" z="-39" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-36" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-37" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-35" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-11" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-12" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-33" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-34" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-13" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-14" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-35" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-36" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-37" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-38" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-11" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-12" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-13" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-14" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-15" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-16" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-28" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-25" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-24" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-32" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-27" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-26" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-30" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-10" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-9" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-8" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-28" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-29" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-26" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-15" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-16" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-17" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-18" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-19" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-20" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-21" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-22" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-23" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-31" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-34" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-33" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-32" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-31" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-30" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-27" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-25" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-24" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-23" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-22" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-21" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-17" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-18" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="-19" />
+              <BlockOrientation Forward="Right" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-10" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-9" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="-8" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <XMirroxPlane x="0" y="3" z="-35" />
+          <BlockGroups>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Detachers_cannon_G2</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>1</Y>
+                  <Z>-9</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Rotors_cannon_FRONT_G2</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>-1</X>
+                  <Y>0</Y>
+                  <Z>-38</Z>
+                </Vector3I>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>0</Y>
+                  <Z>-38</Z>
+                </Vector3I>
+                <Vector3I>
+                  <X>1</X>
+                  <Y>0</Y>
+                  <Z>-38</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+          </BlockGroups>
+          <DisplayName>Cannon_C-C34-S-body-mobile-G2</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>116596885981656841</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="600.22666751215" y="2509.5158788660519" z="298.68961788522938" />
+            <Forward x="-0.00146469474" y="-0.9999965" z="0.00212430954" />
+            <Up x="0.9988191" y="-0.00135961175" z="0.04856187" />
+            <Orientation>
+              <X>0.488601416</X>
+              <Y>0.5121824</Y>
+              <Z>0.5118091</Z>
+              <W>-0.486815453</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+              <SubtypeName>SmallRotor</SubtypeName>
+              <EntityId>90326914474042251</EntityId>
+              <Min x="3" y="3" z="36" />
+              <BlockOrientation Forward="Left" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>139044869231954233</ParentEntityId>
+              <YieldLastComponent>true</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorSide</SubtypeName>
+              <EntityId>74620637653296882</EntityId>
+              <Min x="3" y="3" z="35" />
+              <BlockOrientation Forward="Left" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+              <SubtypeName>SmallRotor</SubtypeName>
+              <EntityId>92191708437462135</EntityId>
+              <Min x="3" y="4" z="36" />
+              <BlockOrientation Forward="Left" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>122730731227300197</ParentEntityId>
+              <YieldLastComponent>true</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ExtendedPistonBase">
+              <SubtypeName>SmallPistonBase</SubtypeName>
+              <EntityId>77528533802153702</EntityId>
+              <Min x="3" y="4" z="33" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>p0_L</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>120853518352887880</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <Velocity>-1</Velocity>
+              <MaxLimit>1</MaxLimit>
+              <MinLimit>0</MinLimit>
+              <Reverse>false</Reverse>
+              <CurrentPosition>0</CurrentPosition>
+              <MaxImpulseAxis>3999997.75</MaxImpulseAxis>
+              <MaxImpulseNonAxis>3.40282347E+38</MaxImpulseNonAxis>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+              <SubtypeName>SmallRotor</SubtypeName>
+              <EntityId>139743850653323148</EntityId>
+              <Min x="3" y="2" z="36" />
+              <BlockOrientation Forward="Left" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>90196420736752135</ParentEntityId>
+              <YieldLastComponent>true</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ExtendedPistonBase">
+              <SubtypeName>SmallPistonBase</SubtypeName>
+              <EntityId>130517714524113907</EntityId>
+              <Min x="3" y="2" z="33" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>p0_R</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>141915387294749469</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <Velocity>-1</Velocity>
+              <MaxLimit>1</MaxLimit>
+              <MinLimit>0</MinLimit>
+              <Reverse>false</Reverse>
+              <CurrentPosition>0</CurrentPosition>
+              <MaxImpulseAxis>3999997.75</MaxImpulseAxis>
+              <MaxImpulseNonAxis>3.40282347E+38</MaxImpulseNonAxis>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <BlockGroups>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Pistons_cannon_G2</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>3</X>
+                  <Y>2</Y>
+                  <Z>35</Z>
+                </Vector3I>
+                <Vector3I>
+                  <X>3</X>
+                  <Y>4</Y>
+                  <Z>35</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+          </BlockGroups>
+          <DisplayName>小型网格 2754</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>143657698203719113</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="602.17704593011877" y="2526.483480642175" z="300.2497184406493" />
+            <Forward x="-0.998609364" y="0.00146892259" z="-0.0526986867" />
+            <Up x="-0.00159252109" y="-0.999996066" z="0.0023034662" />
+            <Orientation>
+              <X>0.688222766</X>
+              <Y>0.000287576084</Y>
+              <Z>0.7254981</Z>
+              <W>0.00137033709</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_PistonTop">
+              <SubtypeName>SmallPistonTop</SubtypeName>
+              <EntityId>120853518352887880</EntityId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>77528533802153702</ParentEntityId>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_PistonTop">
+              <SubtypeName>SmallPistonTop</SubtypeName>
+              <EntityId>103626727061378403</EntityId>
+              <Min x="0" y="1" z="0" />
+              <BlockOrientation Forward="Forward" Up="Down" />
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>93995094289368610</ParentEntityId>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <ConveyorLines>
+            <MyObjectBuilder_ConveyorLine>
+              <StartPosition x="0" y="0" z="0" />
+              <StartDirection>Up</StartDirection>
+              <EndPosition x="0" y="1" z="0" />
+              <EndDirection>Down</EndDirection>
+              <Sections />
+              <ConveyorLineType>SMALL_LINE</ConveyorLineType>
+            </MyObjectBuilder_ConveyorLine>
+          </ConveyorLines>
+          <DisplayName>小型网格 7538</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>131886419888373048</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="601.1783276684" y="2526.4848997095578" z="300.19645382272938" />
+            <Forward x="-0.9985666" y="0.00148979749" z="-0.053501375" />
+            <Up x="-0.00161722512" y="-0.999995768" z="0.00233855122" />
+            <Orientation>
+              <X>0.6879311</X>
+              <Y>0.000292361481</Y>
+              <Z>0.7257746</Z>
+              <W>0.0013912546</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_PistonTop">
+              <SubtypeName>SmallPistonTop</SubtypeName>
+              <EntityId>141915387294749469</EntityId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>130517714524113907</ParentEntityId>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_PistonTop">
+              <SubtypeName>SmallPistonTop</SubtypeName>
+              <EntityId>124442254513275174</EntityId>
+              <Min x="0" y="1" z="0" />
+              <BlockOrientation Forward="Forward" Up="Down" />
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>91268223971328269</ParentEntityId>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <ConveyorLines>
+            <MyObjectBuilder_ConveyorLine>
+              <StartPosition x="0" y="0" z="0" />
+              <StartDirection>Up</StartDirection>
+              <EndPosition x="0" y="1" z="0" />
+              <EndDirection>Down</EndDirection>
+              <Sections />
+              <ConveyorLineType>SMALL_LINE</ConveyorLineType>
+            </MyObjectBuilder_ConveyorLine>
+          </ConveyorLines>
+          <DisplayName>小型网格 7538</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>96079371050023352</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="601.63230716058752" y="2512.4543640116208" z="300.7527930866454" />
+            <Forward x="-0.00146014243" y="-0.999996662" z="0.00211848645" />
+            <Up x="0.04841569" y="-0.0021867156" z="-0.998824835" />
+            <Orientation>
+              <X>-0.707660139</X>
+              <Y>-0.0166251548</Y>
+              <Z>-0.0176210552</Z>
+              <W>0.706137538</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ExtendedPistonBase">
+              <SubtypeName>SmallPistonBase</SubtypeName>
+              <EntityId>91268223971328269</EntityId>
+              <Min x="-1" y="1" z="26" />
+              <BlockOrientation Forward="Left" Up="Backward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>p1_R</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>124442254513275174</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <Velocity>-1</Velocity>
+              <MaxLimit>1</MaxLimit>
+              <MinLimit>0</MinLimit>
+              <Reverse>false</Reverse>
+              <CurrentPosition>0</CurrentPosition>
+              <MaxImpulseAxis>3999997.75</MaxImpulseAxis>
+              <MaxImpulseNonAxis>3.40282347E+38</MaxImpulseNonAxis>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="1" y="1" z="25" />
+              <BlockOrientation Forward="Backward" Up="Right" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ExtendedPistonBase">
+              <SubtypeName>SmallPistonBase</SubtypeName>
+              <EntityId>93995094289368610</EntityId>
+              <Min x="1" y="1" z="26" />
+              <BlockOrientation Forward="Left" Up="Backward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>p1_L</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>103626727061378403</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <Velocity>-1</Velocity>
+              <MaxLimit>1</MaxLimit>
+              <MinLimit>0</MinLimit>
+              <Reverse>false</Reverse>
+              <CurrentPosition>0</CurrentPosition>
+              <MaxImpulseAxis>3999997.75</MaxImpulseAxis>
+              <MaxImpulseNonAxis>3.40282347E+38</MaxImpulseNonAxis>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="-1" y="1" z="25" />
+              <BlockOrientation Forward="Right" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ExtendedPistonBase">
+              <SubtypeName>SmallPistonBase</SubtypeName>
+              <EntityId>74245690513914112</EntityId>
+              <Min x="0" y="1" z="23" />
+              <BlockOrientation Forward="Right" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>p2</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>137539532963160347</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <Velocity>-1</Velocity>
+              <MaxLimit>1</MaxLimit>
+              <MinLimit>0</MinLimit>
+              <Reverse>false</Reverse>
+              <CurrentPosition>0</CurrentPosition>
+              <MaxImpulseAxis>3999997.75</MaxImpulseAxis>
+              <MaxImpulseNonAxis>3.40282347E+38</MaxImpulseNonAxis>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Projector">
+              <SubtypeName>SmallProjector</SubtypeName>
+              <EntityId>89085140042224040</EntityId>
+              <Min x="0" y="1" z="26" />
+              <BlockOrientation Forward="Backward" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Projector_dec</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>false</Enabled>
+              <ProjectedGrids>
+                <MyObjectBuilder_CubeGrid>
+                  <SubtypeName />
+                  <EntityId>99693323055329449</EntityId>
+                  <PersistentFlags>CastShadows InScene</PersistentFlags>
+                  <PositionAndOrientation>
+                    <Position x="0" y="0" z="0" />
+                    <Forward x="0.0893252939" y="0.9959971" z="-0.00328803062" />
+                    <Up x="0.00389095023" y="-0.003650122" z="-0.9999858" />
+                    <Orientation>
+                      <X>-0.0330424681</X>
+                      <Y>-0.7051696</Y>
+                      <Z>0.7076251</Z>
+                      <W>0.03017851</W>
+                    </Orientation>
+                  </PositionAndOrientation>
+                  <LocalPositionAndOrientation xsi:nil="true" />
+                  <GridSizeEnum>Small</GridSizeEnum>
+                  <CubeBlocks>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-1" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-2" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-3" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-4" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-5" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-6" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-7" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-8" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-9" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="0" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="0" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-2" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-2" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-4" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-4" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-6" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-6" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-8" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-8" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-10" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="0" z="-10" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-10" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="0" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-2" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-4" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-6" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-8" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-10" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="0" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-2" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-4" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-6" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-8" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-10" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="-1" z="0" />
+                      <BlockOrientation Forward="Up" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="-1" z="0" />
+                      <BlockOrientation Forward="Up" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="-1" z="-2" />
+                      <BlockOrientation Forward="Up" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="-1" z="-2" />
+                      <BlockOrientation Forward="Up" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="-1" z="-4" />
+                      <BlockOrientation Forward="Up" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="-1" z="-4" />
+                      <BlockOrientation Forward="Up" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="-1" z="-6" />
+                      <BlockOrientation Forward="Up" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="-1" z="-6" />
+                      <BlockOrientation Forward="Up" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="-1" z="-8" />
+                      <BlockOrientation Forward="Up" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="-1" z="-8" />
+                      <BlockOrientation Forward="Up" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="-1" z="-10" />
+                      <BlockOrientation Forward="Up" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="-1" z="-10" />
+                      <BlockOrientation Forward="Up" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="1" z="-10" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="1" z="-10" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="1" z="-8" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="1" z="-8" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="1" z="-6" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="1" z="-6" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="1" z="-4" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="1" z="-4" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="1" z="-2" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="1" z="-2" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="1" y="1" z="0" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallHeavyBlockArmorRoundSlope</SubtypeName>
+                      <Min x="-1" y="1" z="0" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-1" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-1" />
+                      <BlockOrientation Forward="Left" Up="Up" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-3" />
+                      <BlockOrientation Forward="Left" Up="Up" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-3" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-5" />
+                      <BlockOrientation Forward="Left" Up="Up" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-5" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-7" />
+                      <BlockOrientation Forward="Left" Up="Up" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-7" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="1" y="0" z="-9" />
+                      <BlockOrientation Forward="Left" Up="Up" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="-1" y="0" z="-9" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-9" />
+                      <BlockOrientation Forward="Down" Up="Forward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-7" />
+                      <BlockOrientation Forward="Down" Up="Forward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-5" />
+                      <BlockOrientation Forward="Down" Up="Forward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-3" />
+                      <BlockOrientation Forward="Down" Up="Forward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="1" z="-1" />
+                      <BlockOrientation Forward="Down" Up="Forward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-1" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-3" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-5" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-7" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="-9" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="-1" z="-9" />
+                      <BlockOrientation Forward="Left" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="-1" z="-7" />
+                      <BlockOrientation Forward="Left" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="-1" z="-5" />
+                      <BlockOrientation Forward="Left" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="-1" z="-3" />
+                      <BlockOrientation Forward="Left" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="-1" z="-1" />
+                      <BlockOrientation Forward="Left" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="-1" z="-9" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="-1" z="-7" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="-1" z="-5" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="-1" z="-3" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="-1" z="-1" />
+                      <BlockOrientation Forward="Right" Up="Down" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="1" z="-1" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="1" z="-3" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="1" z="-5" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="1" z="-7" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="1" y="1" z="-9" />
+                      <BlockOrientation Forward="Down" Up="Right" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="1" z="-1" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="1" z="-3" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="1" z="-5" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="1" z="-7" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+                      <Min x="-1" y="1" z="-9" />
+                      <BlockOrientation Forward="Down" Up="Left" />
+                      <ColorMaskHSV x="0.5" y="0.2" z="0.55" />
+                      <SkinSubtypeId>CarbonFibre_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                  </CubeBlocks>
+                  <XMirroxPlane x="0" y="0" z="-3" />
+                  <DisplayName>CannonCoreDecoration</DisplayName>
+                  <DestructibleBlocks>true</DestructibleBlocks>
+                  <CreatePhysics>false</CreatePhysics>
+                  <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+                  <IsRespawnGrid>false</IsRespawnGrid>
+                  <LocalCoordSys>0</LocalCoordSys>
+                  <TargetingTargets />
+                </MyObjectBuilder_CubeGrid>
+              </ProjectedGrids>
+              <ProjectionOffset>
+                <X>0</X>
+                <Y>0</Y>
+                <Z>-18</Z>
+              </ProjectionOffset>
+              <ProjectionRotation>
+                <X>0</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </ProjectionRotation>
+              <KeepProjection>false</KeepProjection>
+              <ShowOnlyBuildable>false</ShowOnlyBuildable>
+              <InstantBuildingEnabled>false</InstantBuildingEnabled>
+              <MaxNumberOfProjections>5</MaxNumberOfProjections>
+              <MaxNumberOfBlocks>200</MaxNumberOfBlocks>
+              <ProjectionsRemaining>0</ProjectionsRemaining>
+              <GetOwnershipFromProjector>false</GetOwnershipFromProjector>
+              <Scale>1</Scale>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <BlockGroups>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Pistons_cannon_G2</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>1</Y>
+                  <Z>25</Z>
+                </Vector3I>
+                <Vector3I>
+                  <X>1</X>
+                  <Y>1</Y>
+                  <Z>26</Z>
+                </Vector3I>
+                <Vector3I>
+                  <X>-1</X>
+                  <Y>1</Y>
+                  <Z>26</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+          </BlockGroups>
+          <DisplayName>小型网格 7355</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>109330111392412331</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="601.67112551996252" y="2524.4201709726804" z="300.22773815500477" />
+            <Forward x="0.9985008" y="-0.00152118062" z="0.0547140762" />
+            <Up x="-0.00165446545" y="-0.999995649" z="0.00239081145" />
+            <Orientation>
+              <X>0.7261921</X>
+              <Y>-0.001422563</Y>
+              <Z>-0.6874903</Z>
+              <W>0.0002993805</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_PistonTop">
+              <SubtypeName>SmallPistonTop</SubtypeName>
+              <EntityId>137539532963160347</EntityId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>74245690513914112</ParentEntityId>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_PistonTop">
+              <SubtypeName>SmallPistonTop</SubtypeName>
+              <EntityId>107320479575625850</EntityId>
+              <Min x="0" y="1" z="0" />
+              <BlockOrientation Forward="Backward" Up="Down" />
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>138411689311488060</ParentEntityId>
+              <YieldLastComponent>false</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <ConveyorLines>
+            <MyObjectBuilder_ConveyorLine>
+              <StartPosition x="0" y="0" z="0" />
+              <StartDirection>Up</StartDirection>
+              <EndPosition x="0" y="1" z="0" />
+              <EndDirection>Down</EndDirection>
+              <Sections />
+              <ConveyorLineType>SMALL_LINE</ConveyorLineType>
+            </MyObjectBuilder_ConveyorLine>
+          </ConveyorLines>
+          <DisplayName>小型网格 7917</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>127455338393034078</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="601.67017947504064" y="2523.889164159631" z="300.228947414038" />
+            <Forward x="-0.998796" y="0.00137253234" z="-0.0490373969" />
+            <Up x="0.00147947" y="0.9999966" z="-0.002144506" />
+            <Orientation>
+              <X>-0.000266478775</X>
+              <Y>0.6895515</Y>
+              <Z>-0.00127511809</Z>
+              <W>0.724235535</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ExtendedPistonBase">
+              <SubtypeName>SmallPistonBase</SubtypeName>
+              <EntityId>138411689311488060</EntityId>
+              <Min x="0" y="-1" z="0" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>p3</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>107320479575625850</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <Velocity>-1</Velocity>
+              <MaxLimit>1</MaxLimit>
+              <MinLimit>0</MinLimit>
+              <Reverse>false</Reverse>
+              <CurrentPosition>0</CurrentPosition>
+              <MaxImpulseAxis>3999997.75</MaxImpulseAxis>
+              <MaxImpulseNonAxis>3.40282347E+38</MaxImpulseNonAxis>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="0" y="-2" z="0" />
+              <BlockOrientation Forward="Backward" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="0" y="0" z="-1" />
+              <BlockOrientation Forward="Backward" Up="Right" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+              <SubtypeName>SmallRotor</SubtypeName>
+              <EntityId>124047821074665106</EntityId>
+              <Min x="1" y="-6" z="0" />
+              <BlockOrientation Forward="Right" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>0</ParentEntityId>
+              <YieldLastComponent>true</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SmallGatlingGun">
+              <SubtypeName />
+              <EntityId>107776623620961293</EntityId>
+              <Min x="-1" y="-3" z="-1" />
+              <BlockOrientation Forward="Down" Up="Right" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>DigitalCamouflage_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <ComponentContainer>
+                <Components>
+                  <ComponentData>
+                    <TypeId>MyInventoryBase</TypeId>
+                    <Component xsi:type="MyObjectBuilder_Inventory">
+                      <Items />
+                      <nextItemId>0</nextItemId>
+                      <Volume>0.064</Volume>
+                      <Mass>9223372036854.775807</Mass>
+                      <MaxItemCount>2147483647</MaxItemCount>
+                      <Size xsi:nil="true" />
+                      <InventoryFlags>CanReceive</InventoryFlags>
+                      <RemoveEntityOnEmpty>false</RemoveEntityOnEmpty>
+                    </Component>
+                  </ComponentData>
+                </Components>
+              </ComponentContainer>
+              <CustomName>加特林机枪-jtljq-</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>false</Enabled>
+              <IsShooting>false</IsShooting>
+              <IsShootingFromTerminal>false</IsShootingFromTerminal>
+              <IsLargeTurret>false</IsLargeTurret>
+              <MinFov>0.1</MinFov>
+              <MaxFov>1.04719758</MaxFov>
+              <GunBase>
+                <RemainingAmmo>133</RemainingAmmo>
+                <CurrentAmmoMagazineName>NATO_25x184mm</CurrentAmmoMagazineName>
+                <RemainingAmmosList />
+                <LastShootTime>637295433131893490</LastShootTime>
+              </GunBase>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="0" y="-3" z="0" />
+              <BlockOrientation Forward="Backward" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="0" y="-4" z="0" />
+              <BlockOrientation Forward="Backward" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="0" y="-5" z="0" />
+              <BlockOrientation Forward="Backward" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorStator">
+              <SubtypeName>SmallStator</SubtypeName>
+              <EntityId>131613502496151003</EntityId>
+              <Min x="1" y="-4" z="-1" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Rotor_OS_REAR</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>113660089855330990</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <TargetVelocity>0</TargetVelocity>
+              <MinAngle xsi:nil="true" />
+              <MaxAngle xsi:nil="true" />
+              <CurrentAngle>6.281336</CurrentAngle>
+              <LimitsActive>false</LimitsActive>
+              <DummyDisplacement>-0.095</DummyDisplacement>
+              <RotorLock>true</RotorLock>
+              <Torque>448000</Torque>
+              <BrakingTorque>0</BrakingTorque>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorStator">
+              <SubtypeName>SmallStator</SubtypeName>
+              <EntityId>119477290093743332</EntityId>
+              <Min x="1" y="-5" z="-1" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Rotor_OS_FRONT</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <TopBlockId>113660089855330990</TopBlockId>
+              <ShareInertiaTensor>true</ShareInertiaTensor>
+              <SafetyDetach>5</SafetyDetach>
+              <RotorEntityId xsi:nil="true" />
+              <WeldedEntityId xsi:nil="true" />
+              <TargetVelocity>0</TargetVelocity>
+              <MinAngle xsi:nil="true" />
+              <MaxAngle xsi:nil="true" />
+              <CurrentAngle>6.281336</CurrentAngle>
+              <LimitsActive>false</LimitsActive>
+              <DummyDisplacement>-0.095</DummyDisplacement>
+              <RotorLock>true</RotorLock>
+              <Torque>448000</Torque>
+              <BrakingTorque>0</BrakingTorque>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <ZMirroxPlane x="0" y="-3" z="0" />
+          <BlockGroups>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Guns_cannon_G2</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>-1</X>
+                  <Y>0</Y>
+                  <Z>-1</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Pistons_cannon_G2</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>-1</Y>
+                  <Z>0</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+          </BlockGroups>
+          <DisplayName>小型网格 2326</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>89261425925318692</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="601.25028811761877" y="2521.0308944681638" z="299.71398998605946" />
+            <Forward x="0.0515049733" y="-0.00417868467" z="-0.998664" />
+            <Up x="0.00190150144" y="0.999989867" z="-0.00408616429" />
+            <Orientation>
+              <X>-0.00206690351</X>
+              <Y>-0.0257629566</Y>
+              <Z>-0.000897801365</Z>
+              <W>0.999665558</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+              <SubtypeName>SmallRotor</SubtypeName>
+              <EntityId>113660089855330990</EntityId>
+              <Min x="1" y="1" z="0" />
+              <BlockOrientation Forward="Down" Up="Left" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>119477290093743332</ParentEntityId>
+              <YieldLastComponent>true</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HeavyHalfSlopeArmorBlock</SubtypeName>
+              <Min x="0" y="1" z="0" />
+              <BlockOrientation Forward="Right" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Projector">
+              <SubtypeName>SmallProjector</SubtypeName>
+              <EntityId>136635000519571401</EntityId>
+              <Min x="0" y="1" z="1" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0" y="0.2" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <ComponentContainer>
+                <Components>
+                  <ComponentData>
+                    <TypeId>MyModStorageComponent</TypeId>
+                    <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+                      <Storage>
+                        <dictionary>
+                          <item>
+                            <Key>74de02b3-27f9-4960-b1c4-27351f2b06d1</Key>
+                            <Value />
+                          </item>
+                        </dictionary>
+                      </Storage>
+                    </Component>
+                  </ComponentData>
+                </Components>
+              </ComponentContainer>
+              <CustomName>Projector_cannon</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <ProjectedGrids>
+                <MyObjectBuilder_CubeGrid>
+                  <SubtypeName />
+                  <EntityId>82545949781040279</EntityId>
+                  <PersistentFlags>CastShadows InScene</PersistentFlags>
+                  <PositionAndOrientation>
+                    <Position x="0" y="0" z="0" />
+                    <Forward x="3.735214E-07" y="-2.38516378E-07" z="-1" />
+                    <Up x="1" y="4.1723024E-07" z="3.735213E-07" />
+                    <Orientation>
+                      <X>4.77314366E-08</X>
+                      <Y>-2.16388031E-07</Y>
+                      <Z>-0.7071066</Z>
+                      <W>0.707106948</W>
+                    </Orientation>
+                  </PositionAndOrientation>
+                  <LocalPositionAndOrientation xsi:nil="true" />
+                  <GridSizeEnum>Small</GridSizeEnum>
+                  <CubeBlocks>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="0" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
+                      <SubtypeName>SmallBlockSmallLight</SubtypeName>
+                      <EntityId>140483204405393920</EntityId>
+                      <Min x="0" y="1" z="1" />
+                      <BlockOrientation Forward="Up" Up="Forward" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                      <CustomName>室内灯-snd- 2</CustomName>
+                      <ShowOnHUD>false</ShowOnHUD>
+                      <ShowInTerminal>true</ShowInTerminal>
+                      <ShowInToolbarConfig>true</ShowInToolbarConfig>
+                      <ShowInInventory>true</ShowInInventory>
+                      <Enabled>true</Enabled>
+                      <Radius>3.6</Radius>
+                      <ReflectorRadius>120</ReflectorRadius>
+                      <Falloff>1.3</Falloff>
+                      <Intensity>5</Intensity>
+                      <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
+                      <BlinkLenght>10</BlinkLenght>
+                      <BlinkOffset>0</BlinkOffset>
+                      <Offset>0.5</Offset>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallArmorCenter</SubtypeName>
+                      <EntityId>113747783871747521</EntityId>
+                      <Min x="0" y="0" z="1" />
+                      <BlockOrientation Forward="Right" Up="Forward" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+                      <SubtypeName>SmallRotor</SubtypeName>
+                      <EntityId>143019345524080583</EntityId>
+                      <Min x="0" y="-2" z="1" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                      <ParentEntityId>0</ParentEntityId>
+                      <YieldLastComponent>true</YieldLastComponent>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>SmallArmorCenter</SubtypeName>
+                      <EntityId>114666654030733024</EntityId>
+                      <Min x="0" y="-1" z="1" />
+                      <BlockOrientation Forward="Right" Up="Forward" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                  </CubeBlocks>
+                  <XMirroxPlane x="0" y="-1" z="1" />
+                  <DisplayName>Shell_S-AP10-OS</DisplayName>
+                  <DestructibleBlocks>true</DestructibleBlocks>
+                  <CreatePhysics>false</CreatePhysics>
+                  <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+                  <IsRespawnGrid>false</IsRespawnGrid>
+                  <LocalCoordSys>0</LocalCoordSys>
+                  <TargetingTargets />
+                </MyObjectBuilder_CubeGrid>
+              </ProjectedGrids>
+              <ProjectionOffset>
+                <X>0</X>
+                <Y>1</Y>
+                <Z>0</Z>
+              </ProjectionOffset>
+              <ProjectionRotation>
+                <X>-1</X>
+                <Y>0</Y>
+                <Z>-1</Z>
+              </ProjectionRotation>
+              <KeepProjection>true</KeepProjection>
+              <ShowOnlyBuildable>false</ShowOnlyBuildable>
+              <InstantBuildingEnabled>false</InstantBuildingEnabled>
+              <MaxNumberOfProjections>5</MaxNumberOfProjections>
+              <MaxNumberOfBlocks>200</MaxNumberOfBlocks>
+              <ProjectionsRemaining>0</ProjectionsRemaining>
+              <GetOwnershipFromProjector>false</GetOwnershipFromProjector>
+              <Scale>1</Scale>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>HalfArmorBlock</SubtypeName>
+              <Min x="0" y="1" z="2" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0.6666667" y="-0.65" z="0.05" />
+              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorCenter</SubtypeName>
+              <EntityId>86559454561971307</EntityId>
+              <Min x="1" y="1" z="2" />
+              <BlockOrientation Forward="Backward" Up="Left" />
+              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
+              <SubtypeName>SmallBlockSmallLight</SubtypeName>
+              <EntityId>131595124520023353</EntityId>
+              <Min x="1" y="-1" z="2" />
+              <BlockOrientation Forward="Down" Up="Left" />
+              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <CustomName>室内灯-snd- 2</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <Radius>3.6</Radius>
+              <ReflectorRadius>120</ReflectorRadius>
+              <Falloff>1.3</Falloff>
+              <Intensity>5</Intensity>
+              <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
+              <BlinkLenght>10</BlinkLenght>
+              <BlinkOffset>0</BlinkOffset>
+              <Offset>0.5</Offset>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+              <SubtypeName>SmallArmorCenter</SubtypeName>
+              <EntityId>93297689524881254</EntityId>
+              <Min x="1" y="0" z="2" />
+              <BlockOrientation Forward="Backward" Up="Left" />
+              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MotorRotor">
+              <SubtypeName>SmallRotor</SubtypeName>
+              <EntityId>91758666387114071</EntityId>
+              <Min x="1" y="2" z="2" />
+              <BlockOrientation Forward="Left" Up="Down" />
+              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ParentEntityId>0</ParentEntityId>
+              <YieldLastComponent>true</YieldLastComponent>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <BlockGroups>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Projectors_cannon_shell</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>1</Y>
+                  <Z>1</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+          </BlockGroups>
+          <DisplayName>RotorHead</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+      </CubeGrids>
+      <EnvironmentType>None</EnvironmentType>
+      <WorkshopId>0</WorkshopId>
+      <OwnerSteamId>76561198396058445</OwnerSteamId>
+      <Points>0</Points>
+    </ShipBlueprint>
+  </ShipBlueprints>
+</Definitions>
