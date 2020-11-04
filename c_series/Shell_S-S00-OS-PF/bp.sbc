@@ -7,17 +7,17 @@
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>83866838391340004</EntityId>
+          <EntityId>99949012853372326</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
-            <Position x="-130.34030212678709" y="3362.5023620696957" z="210.77787931325005" />
-            <Forward x="-3.13916473E-07" y="3.5762784E-07" z="-1" />
-            <Up x="4.33125763E-07" y="-1" z="-3.57627982E-07" />
+            <Position x="21.65838293898933" y="2426.4039118692431" z="228.55964805130625" />
+            <Forward x="-3.13916473E-07" y="3.57627755E-07" z="-1" />
+            <Up x="6.71544342E-07" y="-1" z="-3.57627954E-07" />
             <Orientation>
-              <X>1.569582E-07</X>
-              <Y>-1.78813949E-07</Y>
+              <X>1.5695818E-07</X>
+              <Y>-1.78813934E-07</Y>
               <Z>1</Z>
-              <W>-2.1656291E-07</W>
+              <W>-3.357722E-07</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -33,7 +33,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
               <SubtypeName>SmallWarhead</SubtypeName>
-              <EntityId>139502216503433337</EntityId>
+              <EntityId>122475125411289141</EntityId>
               <Min x="0" y="-1" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -52,7 +52,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SensorBlock">
               <SubtypeName>SmallBlockSensor</SubtypeName>
-              <EntityId>118699974283884691</EntityId>
+              <EntityId>94041842747805033</EntityId>
               <Min x="0" y="-2" z="1" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -77,7 +77,7 @@
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>Safety</Action>
-                      <BlockEntityId>139502216503433337</BlockEntityId>
+                      <BlockEntityId>122475125411289141</BlockEntityId>
                     </Data>
                   </Slot>
                 </Slots>
@@ -99,7 +99,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
               <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
-              <EntityId>92976070586264169</EntityId>
+              <EntityId>136030009193564104</EntityId>
               <Min x="0" y="0" z="1" />
               <BlockOrientation Forward="Down" Up="Forward" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -122,7 +122,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_SensorBlock">
               <SubtypeName>SmallBlockSensor</SubtypeName>
-              <EntityId>128610108523991001</EntityId>
+              <EntityId>114643190596979240</EntityId>
               <Min x="0" y="1" z="1" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -136,8 +136,8 @@
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
               <Enabled>true</Enabled>
-              <FieldMin x="-10" y="-10" z="-50" />
-              <FieldMax x="10" y="10" z="29.9999981" />
+              <FieldMin x="-8" y="-8" z="-29.9999981" />
+              <FieldMax x="8" y="8" z="29.9999981" />
               <Toolbar>
                 <ToolbarType>Character</ToolbarType>
                 <SelectedSlot xsi:nil="true" />
@@ -147,7 +147,7 @@
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
                       <Action>Detonate</Action>
-                      <BlockEntityId>139502216503433337</BlockEntityId>
+                      <BlockEntityId>122475125411289141</BlockEntityId>
                     </Data>
                   </Slot>
                 </Slots>
@@ -155,13 +155,13 @@
               </Toolbar>
               <PlaySound>false</PlaySound>
               <DetectPlayers>true</DetectPlayers>
-              <DetectFloatingObjects>true</DetectFloatingObjects>
+              <DetectFloatingObjects>false</DetectFloatingObjects>
               <DetectSmallShips>true</DetectSmallShips>
               <DetectLargeShips>true</DetectLargeShips>
               <DetectStations>true</DetectStations>
               <DetectSubgrids>false</DetectSubgrids>
               <IsActive>false</IsActive>
-              <DetectAsteroids>true</DetectAsteroids>
+              <DetectAsteroids>false</DetectAsteroids>
               <DetectOwner>true</DetectOwner>
               <DetectFriendly>true</DetectFriendly>
               <DetectNeutral>true</DetectNeutral>
