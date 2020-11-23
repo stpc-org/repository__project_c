@@ -2,22 +2,22 @@
 <Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ShipBlueprints>
     <ShipBlueprint xsi:type="MyObjectBuilder_ShipBlueprintDefinition">
-      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="Shell_S-S00-OS" />
+      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="Shell_S-S00-OS-#2" />
       <DisplayName>Sirius_Z</DisplayName>
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>117165583234788090</EntityId>
+          <EntityId>73705465395662946</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
-            <Position x="-152.20143971373182" y="2703.5916404922464" z="-39.279354880678511" />
-            <Forward x="-0.000235457512" y="-0.1436887" z="-0.9896229" />
-            <Up x="0.00160511769" y="-0.9896216" z="0.143688127" />
+            <Position x="-24.227522530511123" y="2330.9187313687225" z="71.452892645479551" />
+            <Forward x="-3.139164E-07" y="3.57627641E-07" z="-1" />
+            <Up x="6.715443E-07" y="-0.999999762" z="-3.57627869E-07" />
             <Orientation>
-              <X>0.000175232417</X>
-              <Y>0.07203134</Y>
-              <Z>0.997402</Z>
-              <W>-0.0007919943</W>
+              <X>1.56958137E-07</X>
+              <Y>-1.78813877E-07</Y>
+              <Z>1</Z>
+              <W>-3.35772256E-07</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -33,7 +33,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
               <SubtypeName>SmallWarhead</SubtypeName>
-              <EntityId>135396612192840666</EntityId>
+              <EntityId>119123412462946463</EntityId>
               <Min x="0" y="-1" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -52,7 +52,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
               <SubtypeName>SmallWarhead</SubtypeName>
-              <EntityId>75649222510941760</EntityId>
+              <EntityId>126822013686899873</EntityId>
               <Min x="0" y="-2" z="1" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
               <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
@@ -70,7 +70,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
               <SubtypeName>SmallWarhead</SubtypeName>
-              <EntityId>136425824307651361</EntityId>
+              <EntityId>74030337584248935</EntityId>
               <Min x="0" y="0" z="1" />
               <BlockOrientation Forward="Forward" Up="Down" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -89,7 +89,7 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
               <SubtypeName>SmallBlockSmallLight</SubtypeName>
-              <EntityId>118342702799459269</EntityId>
+              <EntityId>116196864423503815</EntityId>
               <Min x="0" y="1" z="1" />
               <BlockOrientation Forward="Up" Up="Forward" />
               <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
@@ -114,7 +114,7 @@
           <XMirroxPlane x="0" y="-1" z="1" />
           <BlockGroups>
             <MyObjectBuilder_BlockGroup>
-              <Name>Warheads_cannon_shell</Name>
+              <Name>Warheads_cannon_shell_#2</Name>
               <Blocks>
                 <Vector3I>
                   <X>0</X>
@@ -134,7 +134,7 @@
               </Blocks>
             </MyObjectBuilder_BlockGroup>
           </BlockGroups>
-          <DisplayName>Shell_S-S00-OS</DisplayName>
+          <DisplayName>Shell_S-S00-OS-#2</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
