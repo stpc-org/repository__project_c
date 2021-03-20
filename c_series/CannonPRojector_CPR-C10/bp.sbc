@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ShipBlueprints>
+    <ShipBlueprint xsi:type="MyObjectBuilder_ShipBlueprintDefinition">
+      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="CannonPRojector_CPR-C10" />
+      <DisplayName>Sirius_Z</DisplayName>
+      <CubeGrids>
+        <CubeGrid>
+          <SubtypeName />
+          <EntityId>114847608964800465</EntityId>
+          <PersistentFlags>CastShadows InScene</PersistentFlags>
+          <PositionAndOrientation>
+            <Position x="272.91569736080066" y="2455.8368569598028" z="11.629167905653368" />
+            <Forward x="0.00331618544" y="-0.206583977" z="-0.978423238" />
+            <Up x="-0.000663909363" y="-0.9784289" z="0.206582919" />
+            <Orientation>
+              <X>-0.00168360386</X>
+              <Y>0.103853449</Y>
+              <Z>0.9945912</Z>
+              <W>0.000157960982</W>
+            </Orientation>
+          </PositionAndOrientation>
+          <LocalPositionAndOrientation xsi:nil="true" />
+          <GridSizeEnum>Small</GridSizeEnum>
+          <CubeBlocks>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_BatteryBlock">
+              <SubtypeName>SmallBlockSmallBatteryBlock</SubtypeName>
+              <EntityId>127231576351476321</EntityId>
+              <Min x="0" y="1" z="-1" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>Locator_cannon_detach_part_grid_#0</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <CurrentStoredPower>0.05</CurrentStoredPower>
+              <ProducerEnabled>true</ProducerEnabled>
+              <MaxStoredPower>0</MaxStoredPower>
+              <SemiautoEnabled>false</SemiautoEnabled>
+              <OnlyDischargeEnabled>false</OnlyDischargeEnabled>
+              <ChargeMode>0</ChargeMode>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Projector">
+              <SubtypeName>SmallProjector</SubtypeName>
+              <EntityId>106601665277712140</EntityId>
+              <Min x="0" y="1" z="0" />
+              <BlockOrientation Forward="Down" Up="Forward" />
+              <ColorMaskHSV x="0" y="0.2" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <ComponentContainer>
+                <Components>
+                  <ComponentData>
+                    <TypeId>MyModStorageComponent</TypeId>
+                    <Component xsi:type="MyObjectBuilder_ModStorageComponent">
+                      <Storage>
+                        <dictionary>
+                          <item>
+                            <Key>74de02b3-27f9-4960-b1c4-27351f2b06d1</Key>
+                            <Value />
+                          </item>
+                        </dictionary>
+                      </Storage>
+                    </Component>
+                  </ComponentData>
+                </Components>
+              </ComponentContainer>
+              <CustomName>Projector_cannon_#0</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <ProjectedGrids>
+                <MyObjectBuilder_CubeGrid>
+                  <SubtypeName />
+                  <EntityId>81699353849670121</EntityId>
+                  <PersistentFlags>CastShadows InScene</PersistentFlags>
+                  <Name>81699353849670121</Name>
+                  <PositionAndOrientation>
+                    <Position x="0" y="0" z="0" />
+                    <Forward x="-3.139164E-07" y="3.57627641E-07" z="-1" />
+                    <Up x="6.71544456E-07" y="-1" z="-3.57627869E-07" />
+                    <Orientation>
+                      <X>1.56958137E-07</X>
+                      <Y>-1.78813877E-07</Y>
+                      <Z>1</Z>
+                      <W>-3.35772256E-07</W>
+                    </Orientation>
+                  </PositionAndOrientation>
+                  <LocalPositionAndOrientation xsi:nil="true" />
+                  <GridSizeEnum>Small</GridSizeEnum>
+                  <CubeBlocks>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
+                      <SubtypeName>HalfArmorBlock</SubtypeName>
+                      <Min x="0" y="-1" z="0" />
+                      <BlockOrientation Forward="Up" Up="Backward" />
+                      <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
+                      <SubtypeName>SmallWarhead</SubtypeName>
+                      <EntityId>86080055052623600</EntityId>
+                      <Min x="0" y="-1" z="1" />
+                      <BlockOrientation Forward="Forward" Up="Down" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                      <Owner>144115188075855895</Owner>
+                      <ShareMode>Faction</ShareMode>
+                      <CustomName>WH_0</CustomName>
+                      <ShowOnHUD>false</ShowOnHUD>
+                      <ShowInTerminal>true</ShowInTerminal>
+                      <ShowInToolbarConfig>true</ShowInToolbarConfig>
+                      <ShowInInventory>true</ShowInInventory>
+                      <CountdownMs>10000</CountdownMs>
+                      <IsArmed>false</IsArmed>
+                      <IsCountingDown>false</IsCountingDown>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
+                      <SubtypeName>SmallWarhead</SubtypeName>
+                      <EntityId>122025425782562960</EntityId>
+                      <Min x="0" y="-2" z="1" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                      <Owner>144115188075855895</Owner>
+                      <ShareMode>Faction</ShareMode>
+                      <CustomName>WH_1</CustomName>
+                      <ShowOnHUD>false</ShowOnHUD>
+                      <ShowInTerminal>true</ShowInTerminal>
+                      <ShowInToolbarConfig>true</ShowInToolbarConfig>
+                      <ShowInInventory>true</ShowInInventory>
+                      <CountdownMs>10000</CountdownMs>
+                      <IsArmed>false</IsArmed>
+                      <IsCountingDown>false</IsCountingDown>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
+                      <SubtypeName>SmallWarhead</SubtypeName>
+                      <EntityId>141161132561049422</EntityId>
+                      <Min x="0" y="0" z="1" />
+                      <BlockOrientation Forward="Forward" Up="Down" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                      <Owner>144115188075855895</Owner>
+                      <ShareMode>Faction</ShareMode>
+                      <CustomName>WH_2</CustomName>
+                      <ShowOnHUD>false</ShowOnHUD>
+                      <ShowInTerminal>true</ShowInTerminal>
+                      <ShowInToolbarConfig>true</ShowInToolbarConfig>
+                      <ShowInInventory>true</ShowInInventory>
+                      <CountdownMs>10000</CountdownMs>
+                      <IsArmed>false</IsArmed>
+                      <IsCountingDown>false</IsCountingDown>
+                    </MyObjectBuilder_CubeBlock>
+                    <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
+                      <SubtypeName>SmallBlockSmallLight</SubtypeName>
+                      <EntityId>132461051876527313</EntityId>
+                      <Min x="0" y="1" z="1" />
+                      <BlockOrientation Forward="Up" Up="Forward" />
+                      <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
+                      <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+                      <CustomName>Light_shell</CustomName>
+                      <ShowOnHUD>false</ShowOnHUD>
+                      <ShowInTerminal>true</ShowInTerminal>
+                      <ShowInToolbarConfig>true</ShowInToolbarConfig>
+                      <ShowInInventory>true</ShowInInventory>
+                      <Enabled>true</Enabled>
+                      <Radius>1</Radius>
+                      <ReflectorRadius>120</ReflectorRadius>
+                      <Falloff>1.3</Falloff>
+                      <Intensity>10</Intensity>
+                      <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
+                      <BlinkLenght>10</BlinkLenght>
+                      <BlinkOffset>0</BlinkOffset>
+                      <Offset>0.5</Offset>
+                    </MyObjectBuilder_CubeBlock>
+                  </CubeBlocks>
+                  <XMirroxPlane x="0" y="-1" z="1" />
+                  <BlockGroups>
+                    <MyObjectBuilder_BlockGroup>
+                      <Name>Warheads_cannon_shell_#0</Name>
+                      <Blocks>
+                        <Vector3I>
+                          <X>0</X>
+                          <Y>-1</Y>
+                          <Z>1</Z>
+                        </Vector3I>
+                        <Vector3I>
+                          <X>0</X>
+                          <Y>-2</Y>
+                          <Z>1</Z>
+                        </Vector3I>
+                        <Vector3I>
+                          <X>0</X>
+                          <Y>0</Y>
+                          <Z>1</Z>
+                        </Vector3I>
+                      </Blocks>
+                    </MyObjectBuilder_BlockGroup>
+                  </BlockGroups>
+                  <DisplayName>Shell_S-S00-OS-#0</DisplayName>
+                  <DestructibleBlocks>true</DestructibleBlocks>
+                  <CreatePhysics>false</CreatePhysics>
+                  <EnableSmallToLargeConnections>false</EnableSmallToLargeConnections>
+                  <IsRespawnGrid>false</IsRespawnGrid>
+                  <LocalCoordSys>0</LocalCoordSys>
+                  <TargetingTargets />
+                </MyObjectBuilder_CubeGrid>
+              </ProjectedGrids>
+              <ProjectionOffset>
+                <X>1</X>
+                <Y>0</Y>
+                <Z>0</Z>
+              </ProjectionOffset>
+              <ProjectionRotation>
+                <X>-1</X>
+                <Y>1</Y>
+                <Z>-1</Z>
+              </ProjectionRotation>
+              <KeepProjection>true</KeepProjection>
+              <ShowOnlyBuildable>false</ShowOnlyBuildable>
+              <InstantBuildingEnabled>false</InstantBuildingEnabled>
+              <MaxNumberOfProjections>5</MaxNumberOfProjections>
+              <MaxNumberOfBlocks>200</MaxNumberOfBlocks>
+              <ProjectionsRemaining>0</ProjectionsRemaining>
+              <GetOwnershipFromProjector>false</GetOwnershipFromProjector>
+              <Scale>1</Scale>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
+              <SubtypeName>SmallControlPanel</SubtypeName>
+              <EntityId>130220610543666035</EntityId>
+              <Min x="0" y="2" z="0" />
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>控制面板</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+            </MyObjectBuilder_CubeBlock>
+          </CubeBlocks>
+          <BlockGroups>
+            <MyObjectBuilder_BlockGroup>
+              <Name>Projectors_cannon_shell_#0</Name>
+              <Blocks>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>1</Y>
+                  <Z>0</Z>
+                </Vector3I>
+              </Blocks>
+            </MyObjectBuilder_BlockGroup>
+          </BlockGroups>
+          <DisplayName>CannonPRojector_CPR-C10</DisplayName>
+          <DestructibleBlocks>true</DestructibleBlocks>
+          <IsRespawnGrid>false</IsRespawnGrid>
+          <LocalCoordSys>0</LocalCoordSys>
+          <TargetingTargets />
+        </CubeGrid>
+      </CubeGrids>
+      <EnvironmentType>None</EnvironmentType>
+      <WorkshopId>0</WorkshopId>
+      <OwnerSteamId>76561198396058445</OwnerSteamId>
+      <Points>0</Points>
+    </ShipBlueprint>
+  </ShipBlueprints>
+</Definitions>
