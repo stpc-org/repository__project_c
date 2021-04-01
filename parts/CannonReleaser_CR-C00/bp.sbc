@@ -2,7 +2,7 @@
 <Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ShipBlueprints>
     <ShipBlueprint xsi:type="MyObjectBuilder_ShipBlueprintDefinition">
-      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="CannonREleaser_CRE-C00" />
+      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="CannonReleaser_CR-C00" />
       <DisplayName>Sirius_Z</DisplayName>
       <CubeGrids>
         <CubeGrid>
@@ -11,13 +11,13 @@
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
             <Position x="243.69026155999563" y="2451.7429169350416" z="36.9054670687965" />
-            <Forward x="-0.5631055" y="0.8116438" z="-0.155390128" />
-            <Up x="-0.0272789" y="0.16967696" z="0.9851219" />
+            <Forward x="-0.5631057" y="0.811644" z="-0.155390084" />
+            <Up x="-0.02727893" y="0.169676974" z="0.985122144" />
             <Orientation>
-              <X>0.6125495</X>
-              <Y>0.216997892</Y>
-              <Z>0.199861556</Z>
-              <W>0.7333147</W>
+              <X>0.612549543</X>
+              <Y>0.2169979</Y>
+              <Z>0.199861571</Z>
+              <W>0.733314633</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
@@ -82,7 +82,7 @@
               </Blocks>
             </MyObjectBuilder_BlockGroup>
           </BlockGroups>
-          <DisplayName>CannonREleaser_CRE-C00</DisplayName>
+          <DisplayName>CannonReleaser_CR-C00</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
