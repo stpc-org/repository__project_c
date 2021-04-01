@@ -2,45 +2,38 @@
 <Definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ShipBlueprints>
     <ShipBlueprint xsi:type="MyObjectBuilder_ShipBlueprintDefinition">
-      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="CannonButtonsPanel" />
+      <Id Type="MyObjectBuilder_ShipBlueprintDefinition" Subtype="CannonButtonsPanel_CBP-C00" />
       <DisplayName>Sirius_Z</DisplayName>
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>107646378486333705</EntityId>
+          <EntityId>100159072799223864</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
-            <Position x="786.45640123809062" y="2627.3102026385309" z="335.00042817396388" />
-            <Forward x="0.001107091" y="0.98218447" z="-0.187915966" />
-            <Up x="-0.000211336679" y="-0.187915847" z="-0.9821851" />
+            <Position x="301.85928168177634" y="2335.3145157754134" z="69.632744871725663" />
+            <Forward x="-0.9816439" y="0.0227884389" z="-0.189356476" />
+            <Up x="0.190692157" y="0.135068074" z="-0.9723133" />
             <Orientation>
-              <X>-0.000359276833</X>
-              <Y>-0.6372142</Y>
-              <Z>0.770686567</Z>
-              <W>0.000434164336</W>
+              <X>-0.412005454</X>
+              <Y>0.4853589</Y>
+              <Z>-0.5125597</Z>
+              <W>0.5761604</W>
             </Orientation>
           </PositionAndOrientation>
           <LocalPositionAndOrientation xsi:nil="true" />
           <GridSizeEnum>Small</GridSizeEnum>
           <CubeBlocks>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
-              <Min x="1" y="2" z="-5" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855895</BuiltBy>
-            </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
               <SubtypeName>ButtonPanelSmall</SubtypeName>
-              <EntityId>73634502557830548</EntityId>
-              <Min x="2" y="2" z="-5" />
-              <BlockOrientation Forward="Up" Up="Right" />
+              <EntityId>87217578877279127</EntityId>
+              <Min x="1" y="3" z="-2" />
+              <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.55" />
               <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
               <BuiltBy>144115188075855895</BuiltBy>
               <ShareMode>Faction</ShareMode>
-              <CustomName>按钮面板-anmb- 13</CustomName>
+              <CustomName>按钮面板-anmb- 9</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
@@ -54,10 +47,10 @@
                     <Index>0</Index>
                     <Item />
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
-                      <Action>Reverse</Action>
+                      <Action>OnOff</Action>
                       <GridEntityId>0</GridEntityId>
-                      <BlockEntityId>73634502557830548</BlockEntityId>
-                      <GroupName>Pistons_cannon</GroupName>
+                      <BlockEntityId>87217578877279127</BlockEntityId>
+                      <GroupName>Projector_line</GroupName>
                     </Data>
                   </Slot>
                 </Slots>
@@ -68,73 +61,16 @@
                 <dictionary>
                   <item>
                     <Key>0</Key>
-                    <Value>Pistons_cannon</Value>
+                    <Value>Projector_line</Value>
                   </item>
                 </dictionary>
               </CustomButtonNames>
             </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
-              <Min x="1" y="2" z="-4" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855895</BuiltBy>
-            </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
               <SubtypeName>ButtonPanelSmall</SubtypeName>
-              <EntityId>126146564313539839</EntityId>
-              <Min x="2" y="2" z="-4" />
-              <BlockOrientation Forward="Up" Up="Right" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
-              <Owner>144115188075855895</Owner>
-              <BuiltBy>144115188075855895</BuiltBy>
-              <ShareMode>Faction</ShareMode>
-              <CustomName>按钮面板-anmb- 12</CustomName>
-              <ShowOnHUD>false</ShowOnHUD>
-              <ShowInTerminal>true</ShowInTerminal>
-              <ShowInToolbarConfig>true</ShowInToolbarConfig>
-              <ShowInInventory>true</ShowInInventory>
-              <Enabled>true</Enabled>
-              <Toolbar>
-                <ToolbarType>Character</ToolbarType>
-                <SelectedSlot xsi:nil="true" />
-                <Slots>
-                  <Slot>
-                    <Index>0</Index>
-                    <Item />
-                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
-                      <Action>Attach</Action>
-                      <GridEntityId>0</GridEntityId>
-                      <BlockEntityId>126146564313539839</BlockEntityId>
-                      <GroupName>Detachers_cannon</GroupName>
-                    </Data>
-                  </Slot>
-                </Slots>
-                <SlotsGamepad />
-              </Toolbar>
-              <AnyoneCanUse>false</AnyoneCanUse>
-              <CustomButtonNames>
-                <dictionary>
-                  <item>
-                    <Key>0</Key>
-                    <Value>Detachers_cannon</Value>
-                  </item>
-                </dictionary>
-              </CustomButtonNames>
-            </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
-              <Min x="1" y="2" z="-3" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855895</BuiltBy>
-            </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
-              <SubtypeName>ButtonPanelSmall</SubtypeName>
-              <EntityId>96276149674954862</EntityId>
-              <Min x="2" y="2" z="-3" />
-              <BlockOrientation Forward="Up" Up="Right" />
+              <EntityId>106876987443292410</EntityId>
+              <Min x="1" y="3" z="-3" />
+              <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.55" />
               <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
@@ -156,8 +92,8 @@
                     <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
                       <Action>Detach</Action>
                       <GridEntityId>0</GridEntityId>
-                      <BlockEntityId>96276149674954862</BlockEntityId>
-                      <GroupName>Detachers_cannon</GroupName>
+                      <BlockEntityId>106876987443292410</BlockEntityId>
+                      <GroupName>Releasers_cannon_#0</GroupName>
                     </Data>
                   </Slot>
                 </Slots>
@@ -168,23 +104,110 @@
                 <dictionary>
                   <item>
                     <Key>0</Key>
-                    <Value>Detachers_cannon</Value>
+                    <Value>Releasers_cannon_#0</Value>
+                  </item>
+                </dictionary>
+              </CustomButtonNames>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
+              <SubtypeName>ButtonPanelSmall</SubtypeName>
+              <EntityId>129717149298809730</EntityId>
+              <Min x="1" y="3" z="-4" />
+              <BlockOrientation Forward="Left" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>按钮面板-anmb- 12</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <Toolbar>
+                <ToolbarType>Character</ToolbarType>
+                <SelectedSlot xsi:nil="true" />
+                <Slots>
+                  <Slot>
+                    <Index>0</Index>
+                    <Item />
+                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
+                      <Action>Attach</Action>
+                      <GridEntityId>0</GridEntityId>
+                      <BlockEntityId>129717149298809730</BlockEntityId>
+                      <GroupName>Releasers_cannon_#0</GroupName>
+                    </Data>
+                  </Slot>
+                </Slots>
+                <SlotsGamepad />
+              </Toolbar>
+              <AnyoneCanUse>false</AnyoneCanUse>
+              <CustomButtonNames>
+                <dictionary>
+                  <item>
+                    <Key>0</Key>
+                    <Value>Releasers_cannon_#0</Value>
+                  </item>
+                </dictionary>
+              </CustomButtonNames>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
+              <SubtypeName>ButtonPanelSmall</SubtypeName>
+              <EntityId>111174175727223586</EntityId>
+              <Min x="1" y="3" z="-5" />
+              <BlockOrientation Forward="Left" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>按钮面板-anmb- 13</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <Toolbar>
+                <ToolbarType>Character</ToolbarType>
+                <SelectedSlot xsi:nil="true" />
+                <Slots>
+                  <Slot>
+                    <Index>0</Index>
+                    <Item />
+                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
+                      <Action>Reverse</Action>
+                      <GridEntityId>0</GridEntityId>
+                      <BlockEntityId>111174175727223586</BlockEntityId>
+                      <GroupName>Pistons_cannon_#0</GroupName>
+                    </Data>
+                  </Slot>
+                </Slots>
+                <SlotsGamepad />
+              </Toolbar>
+              <AnyoneCanUse>false</AnyoneCanUse>
+              <CustomButtonNames>
+                <dictionary>
+                  <item>
+                    <Key>0</Key>
+                    <Value>Pistons_cannon_#0</Value>
                   </item>
                 </dictionary>
               </CustomButtonNames>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_CubeBlock">
-              <SubtypeName>SmallHeavyBlockArmorBlock</SubtypeName>
-              <Min x="1" y="2" z="-2" />
+              <SubtypeName>SmallHeavyBlockArmorInvCorner2Base</SubtypeName>
+              <Min x="1" y="3" z="-6" />
+              <BlockOrientation Forward="Right" Up="Forward" />
               <ColorMaskHSV x="0" y="-0.8" z="0.55" />
               <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
               <BuiltBy>144115188075855895</BuiltBy>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
               <SubtypeName>ButtonPanelSmall</SubtypeName>
-              <EntityId>109520199298231878</EntityId>
-              <Min x="2" y="2" z="-2" />
-              <BlockOrientation Forward="Up" Up="Right" />
+              <EntityId>112795691894928837</EntityId>
+              <Min x="1" y="3" z="-7" />
+              <BlockOrientation Forward="Left" Up="Up" />
               <ColorMaskHSV x="0" y="-0.8" z="0.55" />
               <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
@@ -203,9 +226,11 @@
                   <Slot>
                     <Index>0</Index>
                     <Item />
-                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalBlock">
-                      <Action>OnOff</Action>
-                      <BlockEntityId>88272547453122445</BlockEntityId>
+                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
+                      <Action>Reverse</Action>
+                      <GridEntityId>0</GridEntityId>
+                      <BlockEntityId>112795691894928837</BlockEntityId>
+                      <GroupName>Pistons_cannon_minor_#0</GroupName>
                     </Data>
                   </Slot>
                 </Slots>
@@ -216,29 +241,72 @@
                 <dictionary>
                   <item>
                     <Key>0</Key>
-                    <Value>Projector_line - 切换方块 开启/关闭</Value>
+                    <Value>Pistons_cannon_minor_#0</Value>
+                  </item>
+                </dictionary>
+              </CustomButtonNames>
+            </MyObjectBuilder_CubeBlock>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_ButtonPanel">
+              <SubtypeName>ButtonPanelSmall</SubtypeName>
+              <EntityId>79292193626110873</EntityId>
+              <Min x="1" y="3" z="-8" />
+              <BlockOrientation Forward="Left" Up="Up" />
+              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
+              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <BuiltBy>144115188075855895</BuiltBy>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>按钮面板-anmb- 10</CustomName>
+              <ShowOnHUD>false</ShowOnHUD>
+              <ShowInTerminal>true</ShowInTerminal>
+              <ShowInToolbarConfig>true</ShowInToolbarConfig>
+              <ShowInInventory>true</ShowInInventory>
+              <Enabled>true</Enabled>
+              <Toolbar>
+                <ToolbarType>Character</ToolbarType>
+                <SelectedSlot xsi:nil="true" />
+                <Slots>
+                  <Slot>
+                    <Index>0</Index>
+                    <Item />
+                    <Data xsi:type="MyObjectBuilder_ToolbarItemTerminalGroup">
+                      <Action>OnOff</Action>
+                      <GridEntityId>0</GridEntityId>
+                      <BlockEntityId>79292193626110873</BlockEntityId>
+                      <GroupName>Fixators_cannon_#0</GroupName>
+                    </Data>
+                  </Slot>
+                </Slots>
+                <SlotsGamepad />
+              </Toolbar>
+              <AnyoneCanUse>false</AnyoneCanUse>
+              <CustomButtonNames>
+                <dictionary>
+                  <item>
+                    <Key>0</Key>
+                    <Value>Fixators_cannon_#0</Value>
                   </item>
                 </dictionary>
               </CustomButtonNames>
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_TerminalBlock">
               <SubtypeName>SmallControlPanel</SubtypeName>
-              <EntityId>141135319504231860</EntityId>
-              <Min x="1" y="3" z="-4" />
-              <BlockOrientation Forward="Up" Up="Forward" />
-              <ColorMaskHSV x="0.6666667" y="-0.8" z="0.55" />
+              <EntityId>83315142514643643</EntityId>
+              <Min x="1" y="4" z="-6" />
+              <BlockOrientation Forward="Up" Up="Left" />
+              <ColorMaskHSV x="0.333333343" y="-0.48" z="-0.25" />
               <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
               <BuiltBy>144115188075855895</BuiltBy>
               <ShareMode>Faction</ShareMode>
-              <CustomName>控制面板-kzmb-</CustomName>
+              <CustomName>控制面板</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
-          <DisplayName>CannonButtonsPanel</DisplayName>
+          <DisplayName>CannonButtonsPanel_CBP-C00</DisplayName>
           <DestructibleBlocks>true</DestructibleBlocks>
           <IsRespawnGrid>false</IsRespawnGrid>
           <LocalCoordSys>0</LocalCoordSys>
