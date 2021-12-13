@@ -7,16 +7,16 @@
       <CubeGrids>
         <CubeGrid>
           <SubtypeName />
-          <EntityId>88928084665915496</EntityId>
+          <EntityId>88683803378052439</EntityId>
           <PersistentFlags>CastShadows InScene</PersistentFlags>
           <PositionAndOrientation>
-            <Position x="-32043.141118687177" y="4312.2258360485321" z="-2210.3945946434583" />
-            <Forward x="1.25089361E-09" y="7.329382E-09" z="-1" />
-            <Up x="-1.00776347E-08" y="1" z="7.329382E-09" />
+            <Position x="-31801.141118578234" y="4439.7258415645738" z="-2290.8946043648448" />
+            <Forward x="1.2508643E-09" y="7.329382E-09" z="-1" />
+            <Up x="-1.00776321E-08" y="1" z="7.329382E-09" />
             <Orientation>
               <X>3.664691E-09</X>
-              <Y>-6.254468E-10</Y>
-              <Z>5.03881736E-09</Z>
+              <Y>-6.25432151E-10</Y>
+              <Z>5.038816E-09</Z>
               <W>1</W>
             </Orientation>
           </PositionAndOrientation>
@@ -25,14 +25,13 @@
           <CubeBlocks>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_MergeBlock">
               <SubtypeName>SmallShipSmallMergeBlock</SubtypeName>
-              <EntityId>138961039976016194</EntityId>
+              <EntityId>94484641880880130</EntityId>
               <Min x="0" y="-1" z="0" />
-              <ColorMaskHSV x="0" y="-0.8" z="0.55" />
-              <SkinSubtypeId>SciFi_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="0.2" z="-0.45" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
-              <BuiltBy>144115188075855895</BuiltBy>
               <ShareMode>Faction</ShareMode>
-              <CustomName>MergeBlock_shell_detach</CustomName>
+              <CustomName>merge_block__shell_detach</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
@@ -41,15 +40,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
               <SubtypeName>SmallWarhead</SubtypeName>
-              <EntityId>141973045304206130</EntityId>
+              <EntityId>101309801591232065</EntityId>
               <Min x="0" y="-1" z="-1" />
               <BlockOrientation Forward="Up" Up="Backward" />
-              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
-              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="0.2" z="-0.45" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
-              <BuiltBy>144115188075855895</BuiltBy>
               <ShareMode>Faction</ShareMode>
-              <CustomName>WH_0</CustomName>
+              <CustomName>warhead__0</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
@@ -60,15 +58,14 @@
             </MyObjectBuilder_CubeBlock>
             <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
               <SubtypeName>SmallWarhead</SubtypeName>
-              <EntityId>96973433289996297</EntityId>
+              <EntityId>73868301169630027</EntityId>
               <Min x="0" y="-1" z="1" />
               <BlockOrientation Forward="Up" Up="Forward" />
-              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
-              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
+              <ColorMaskHSV x="0" y="0.2" z="-0.45" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
               <Owner>144115188075855895</Owner>
-              <BuiltBy>144115188075855895</BuiltBy>
               <ShareMode>Faction</ShareMode>
-              <CustomName>WH_1</CustomName>
+              <CustomName>warhead__1</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
@@ -77,34 +74,29 @@
               <IsArmed>false</IsArmed>
               <IsCountingDown>false</IsCountingDown>
             </MyObjectBuilder_CubeBlock>
-            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_InteriorLight">
-              <SubtypeName>SmallBlockSmallLight</SubtypeName>
-              <EntityId>97490317274314076</EntityId>
+            <MyObjectBuilder_CubeBlock xsi:type="MyObjectBuilder_Warhead">
+              <SubtypeName>SmallWarhead</SubtypeName>
+              <EntityId>91085848989003628</EntityId>
               <Min x="0" y="-1" z="2" />
-              <BlockOrientation Forward="Backward" Up="Up" />
-              <ColorMaskHSV x="0.2777778" y="-0.9558823" z="0.06666672" />
-              <SkinSubtypeId>Silver_Armor</SkinSubtypeId>
-              <BuiltBy>144115188075855895</BuiltBy>
-              <CustomName>Light_shell</CustomName>
+              <BlockOrientation Forward="Up" Up="Forward" />
+              <ColorMaskHSV x="0" y="0.2" z="-0.45" />
+              <SkinSubtypeId>Battered_Armor</SkinSubtypeId>
+              <Owner>144115188075855895</Owner>
+              <ShareMode>Faction</ShareMode>
+              <CustomName>warhead__2</CustomName>
               <ShowOnHUD>false</ShowOnHUD>
               <ShowInTerminal>true</ShowInTerminal>
               <ShowInToolbarConfig>true</ShowInToolbarConfig>
               <ShowInInventory>true</ShowInInventory>
-              <Enabled>false</Enabled>
-              <Radius>1</Radius>
-              <ReflectorRadius>120</ReflectorRadius>
-              <Falloff>0</Falloff>
-              <Intensity>0.5</Intensity>
-              <BlinkIntervalSeconds>0</BlinkIntervalSeconds>
-              <BlinkLenght>10</BlinkLenght>
-              <BlinkOffset>0</BlinkOffset>
-              <Offset>0.5</Offset>
+              <CountdownMs>10000</CountdownMs>
+              <IsArmed>false</IsArmed>
+              <IsCountingDown>false</IsCountingDown>
             </MyObjectBuilder_CubeBlock>
           </CubeBlocks>
           <XMirroxPlane x="0" y="-1" z="-1" />
           <BlockGroups>
             <MyObjectBuilder_BlockGroup>
-              <Name>Warheads_cannon_shell_#0</Name>
+              <Name>group__cannon_shell_warheads__#0</Name>
               <Blocks>
                 <Vector3I>
                   <X>0</X>
@@ -115,6 +107,11 @@
                   <X>0</X>
                   <Y>-1</Y>
                   <Z>1</Z>
+                </Vector3I>
+                <Vector3I>
+                  <X>0</X>
+                  <Y>-1</Y>
+                  <Z>2</Z>
                 </Vector3I>
               </Blocks>
             </MyObjectBuilder_BlockGroup>
